@@ -7,7 +7,6 @@ public class JunitTest {
        Calculator calculator=new Calculator();
       int sum= calculator.getSum(3,5);
         Assert.assertEquals(7,sum);
-
     }
 
 
